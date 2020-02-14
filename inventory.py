@@ -9,7 +9,7 @@
 consumables = []
 weapons = []
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Saying the items that are in the inventory at start.
@@ -19,7 +19,7 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Appending and inserting weapons and consumables into inventory.
@@ -35,7 +35,7 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Removing an item from the list using the pop() command.
@@ -47,7 +47,7 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Removing an item from the list using the del command.
@@ -59,7 +59,7 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Removing an item from the list using the remove command, adding via append.
@@ -72,7 +72,7 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Sorting the items in the correct order.
@@ -84,7 +84,7 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Sorting the items in the reverse order via sorted command.
@@ -95,7 +95,7 @@ print(
     'Current consumables : ' + f'{sorted(consumables, reverse = True)}'
 )
 ##########
-# Seperation line
+# Seperation line.
 print('--------------------')
 ##########
 # Sorting the items in the reverse order via reverse command.
@@ -107,12 +107,21 @@ print(
     'Current consumables : ' + f'{consumables}'
 )
 ##########
-# Seperation line
+# Seperation line.
 # Using the len() command to say the number in the list.
 print('--------------------')
 ##########
 print('8. A man asks you how many items you are carrying!')
 print('You say: I have ' + f'{len(consumables) + len(weapons)}' + ' items.')
+##########
+# Seperation line.
+print('--------------------')
+##########
+# You pick up two new items
+weapons.insert(0, 'Sledgehammer')
+consumables.insert(0, 'Mac & Cheese')
+print('8. A man asks you how many items you are carrying!')
+print('You picked up ' + f'{consumables[0]}' + 'and a ' + f'{weapons[0]}')
 ##########
 print('--------------------')
 ##########
