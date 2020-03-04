@@ -29,11 +29,13 @@ weapons.append('rifle')
 consumables.insert(0, 'food')
 consumables.insert(0, 'water')
 consumables.insert(0, 'bandages')
-print(
-    'Currents weapons : ' + f'{weapons}'
-    f'\n'
-    'Current consumables : ' + f'{consumables}'
-)
+# Using a loop to print out the items that are being used.
+print(f'Current weapons : ')
+for w in weapons:
+    print(f" - {w}")
+print(f'Current consumables : ')
+for c in consumables:
+    print(f' - {c}')
 ##########
 # Seperation line.
 print('--------------------')
