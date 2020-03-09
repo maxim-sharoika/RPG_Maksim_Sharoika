@@ -3,17 +3,17 @@
 >#### Pre-Release
 >>**V0.1**
 
--Added game.py
+- Added game.py
 
--Added changelog.md
+- Added changelog.md
 
--Added game.py
+- Added game.py
 
--Added inventory.txt
+- Added inventory.txt
 
--Added README.md
+- Added README.md
 
--Added tasks.todo
+- Added tasks.todo
 
 >>**V0.2**
 
