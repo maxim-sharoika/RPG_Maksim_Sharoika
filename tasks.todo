@@ -2,7 +2,7 @@ V0.1:
     ✔ Create "test" inventory (infentroy.py) @done(2020-03-09 13:35) @project(V0.1)
     ✔ Create psuedo code (pseudocode.txt) @done(2020-03-09 13:35) @project(V0.1)
     ✔ Create changelog (changelog.md) @done(2020-03-09 13:58) @project(V0.1)
-    ☐ Create read me (readme.md)
+    ✔ Create read me (readme.md)  @done(2020-03-09 14:01) @project(V0.1)
     ✔ Create to do list (tasks.todo) @done(2020-03-09 13:58) @project(V0.1)
     ✔ Create main game file (game.py) @done(2020-03-09 13:36) @project(V0.1)
 
