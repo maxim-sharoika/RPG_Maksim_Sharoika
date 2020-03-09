@@ -8,7 +8,6 @@
 >>> - Added inventory.txt
 >>> - Added README.md
 >>> - Added tasks.todo
-
 >>**V0.2**
 
 >#### After-Release
