@@ -1,6 +1,6 @@
 # RPG Game
 
->#### Pre-Release
+#### Pre-Release
 
 >>**V0.1**
 >>> - Added game.py
@@ -12,7 +12,7 @@
 
 >>**V0.2**
 
->#### After-Release
+#### After-Release
 
 >>**V1.0**
 >>>Not Released
