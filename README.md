@@ -1,4 +1,4 @@
-# RPG_Maksim_Sharoika
+# RPG_Maksim_Sharoika(NAME_NOT_MADE)
 
 The game is a Python text-based adventure.
 
